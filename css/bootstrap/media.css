@@ -1,0 +1,196 @@
+/*Extra Small*/
+@media screen and (max-width: 576px) {
+    section .skills_text {
+        padding: 133px 55px 133px 56px;
+    }
+    .box_icon .block_icon .icon_text {
+        margin-bottom: 19px;
+    }
+    .registration .display-flax {
+        flex-direction: column;
+    }
+    .gallery_bottom .row p {
+        font-size: 19px;
+        padding: 36px 0 29px 0;
+    }
+    .video {
+        padding: 65px 0;
+    }
+    .video .video-text h4 {
+        font-size: 27px;
+        margin-bottom: 16px;
+    }
+    .video .video-text p {
+        font-size: 13px;
+        margin-bottom: 40px;
+    }
+    .registration .registration-text h3 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .registration .registration-text .registration-tex_p {
+        margin-bottom: 24px;
+    }
+    .registration .registration-text p {
+        font-size: 14px;
+    }
+    .registration .registration-input input {
+        padding: 13px 13px;
+        font-size: 13px;
+    }
+    .registration textarea {
+        padding: 13px 13px;
+        font-size: 14px;
+    }
+    .footer_box-left, .footer_box-center {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    footer .footer_box-left h5 {
+        margin-bottom: 16px;
+    }
+    .footer_box-right {
+        text-align: center;
+    }
+    footer .footer_box-right {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+}
+/*Small*/
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    footer .footer_box-right {
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+    footer .footer_box-left {
+        text-align: center;
+    }
+    footer .footer_box-center {
+        text-align: center;
+    }
+}
+/*Medium*/
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    footer .footer_box-right {
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+    footer .footer_box-left {
+        text-align: center;
+    }
+    footer .footer_box-center {
+        text-align: center;
+    }
+}
+/*Large*/
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    footer .row>* {
+        padding-right: 0;
+        padding-left: 0;
+        margin-top: 0;  
+    }
+    .footer-row {
+        justify-content: space-between;
+    }
+    footer .footer_box-right a {
+        font-size: 11px;
+    }
+    footer .footer_box-center p {
+        font-size: 11px;
+    }
+    footer_box-left h5 {
+        font-size: 15px;
+        margin-bottom: 22px;
+    }
+    .footer_box-left p {
+        font-size: 11px;
+    }
+    footer {
+        padding: 75px 0;
+    }
+}
+/*Extra Large*/
+@media  (min-width: 1200px) {
+
+}
+@media screen and (max-width: 360px) {
+    section .skills_text {
+        padding: 133px 55px 133px 56px;
+    }
+    .box_icon .block_icon .icon_text {
+        margin-bottom: 19px;
+    }
+    .registration .display-flax {
+        flex-direction: column;
+    }
+    .gallery_bottom .row p {
+        font-size: 19px;
+        padding: 36px 0 29px 0;
+    }
+    .video {
+        padding: 65px 0;
+    }
+    .video .video-text h4 {
+        font-size: 27px;
+        margin-bottom: 16px;
+    }
+    .video .video-text p {
+        font-size: 13px;
+        margin-bottom: 40px;
+    }
+    .registration .registration-text h3 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .registration .registration-text .registration-tex_p {
+        margin-bottom: 24px;
+    }
+    .registration .registration-text p {
+        font-size: 14px;
+    }
+    .registration .registration-input input {
+        padding: 13px 13px;
+        font-size: 13px;
+    }
+    .registration textarea {
+        padding: 13px 13px;
+        font-size: 14px;
+    }
+    .footer_box-left, .footer_box-center {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    footer .footer_box-left h5 {
+        margin-bottom: 16px;
+    }
+}
+@media screen and (max-width: 320px) {
+   
+}
+@media screen and (max-width: 280px) {
+    .registration .display-flax {
+        flex-direction: column;
+    }
+    header h1 {
+        font-size: 12px;
+    }
+    header button {
+        padding: 10px 31px;
+    }
+    .navbar-toggler {
+    }
+}
+
+
+
+
+
+         
+
+
+
+
+
+    
