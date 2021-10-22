@@ -70,7 +70,9 @@ header button:hover {
 }
 
 /* ------- MAIN ------- */
-
+main {
+  background-color: #ffffff;
+}
 main .main_text {
   text-align: center;
   padding: 100px 0 40px 0;
@@ -311,11 +313,12 @@ main .block_icon {
 .carousel-control-next-icon {
   background-image: none;
 }
-main .logo-block {
-}
 main .logo-block .logo-box {
   text-align: center;
   margin: 65px 0;
+}
+main .logo-block {
+  background-color: #ffffff;
 }
 
 /* ------ registration ------- */
